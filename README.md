@@ -16,5 +16,9 @@
 + [VI Team 1](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-VI-Team1)
 + [VI Team 2](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-VI-Team2)
 
+### Workshops Week 2
++ [DB Workshop Week 2](Week2_2025_DB.pptx)
++ [VI Workshop Week 2](Week2_2025_VI.pptx)
+
 ### SWEN90014 Resources
 + [Demo Project Board](https://github.com/paulcalverley/SWEN90014_Demo)
