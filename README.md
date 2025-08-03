@@ -8,7 +8,7 @@
 + [DB Team 1](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-DB-Team1)
 + [DB Team 2](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-DB-Team2)
 
-### Digital Bricks for Science Gallery
+### VisualEd
 + [Requiremments Wombat](https://github.com/SWEN90009-2025-SM1/SWEN90009-2025-VI-Wombat)
 + [Requiremments Koala](https://github.com/SWEN90009-2025-SM1/SWEN90009-2025-VI-Koala)
 + [Requiremments Quokka](https://github.com/SWEN90009-2025-SM1/SWEN90009-2025-VI-Quokka)
